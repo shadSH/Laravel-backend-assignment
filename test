@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Titus Pacocha",
+        "start_date": "2004-05-07",
+        "salary": "47437.61",
+        "manager_id": null,
+        "is_founder": 1,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 2,
+        "name": "Eldred Gottlieb",
+        "start_date": "2023-10-04",
+        "salary": "47182.80",
+        "manager_id": null,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 3,
+        "name": "Janelle Altenwerth",
+        "start_date": "1971-06-07",
+        "salary": "71875.79",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 4,
+        "name": "Dr. Torrey Hand",
+        "start_date": "1976-06-27",
+        "salary": "63520.63",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 5,
+        "name": "Jacquelyn Wilderman",
+        "start_date": "1988-08-13",
+        "salary": "46674.39",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 6,
+        "name": "Mr. Chase Kshlerin",
+        "start_date": "1970-04-23",
+        "salary": "60175.56",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 7,
+        "name": "Miss Raegan Waelchi V",
+        "start_date": "2008-12-01",
+        "salary": "42371.03",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 8,
+        "name": "Jeramy Herzog",
+        "start_date": "1989-08-29",
+        "salary": "60036.53",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 9,
+        "name": "Christelle Gerlach",
+        "start_date": "1989-05-31",
+        "salary": "49551.38",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    },
+    {
+        "id": 10,
+        "name": "Herta Rempel",
+        "start_date": "1986-07-31",
+        "salary": "55191.86",
+        "manager_id": 2,
+        "is_founder": 0,
+        "created_at": "2024-03-21T06:02:19.000000Z",
+        "updated_at": "2024-03-21T06:02:19.000000Z",
+        "deleted_at": null
+    }
+]
